@@ -46,9 +46,6 @@ Program menggunakan tiga fungsi agar setiap proses memiliki tugas yang jelas dan
 | 3 | BUDI | pmtk 01 | Budi; PMTK-01; 1 kata; B |
 | 4 | siti nur aisyah | kelas c | Siti Nur Aisyah; KELAS-C; 3 kata; SNA |
 
-Hasil aktual: isi setelah setiap test case dijalankan di VS Code.
-
-Status: tandai **Berhasil** jika hasil aktual sesuai dengan hasil yang diharapkan. Jika tidak sesuai, perbaiki kode dan uji kembali.
 
 ## Refleksi
 
